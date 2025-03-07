@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: multilingual-assistant
+Version: 0.0.1
+Author: jitendra Khatnawaliya
+Author-email: jeetu.nawal6290@gmail.com
+Requires-Dist: SpeechRecognition
+Requires-Dist: pipwin
+Requires-Dist: pyaudio
+Requires-Dist: gTTS
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
